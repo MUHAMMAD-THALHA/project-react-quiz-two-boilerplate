@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 
 // import { Component } from 'react'
-import HomeComponent from './components/HomeComponent'
-import QuizComponent from './Components/QuizComponent'
+import HomeComponent from './components/ResultComponent'
+import QuizComponent from './components/QuizComponent'
 import ResultComponent from './components/ResultComponent'
 
 
